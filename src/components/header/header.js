@@ -1,7 +1,7 @@
 // Importando o React
 import React from "react";
 // Importando os components necessários da lib react-materialize
-import { Navbar, NavItem, Row} from 'react-materialize';
+import { Navbar, NavItem, Row } from 'react-materialize';
 
 const Header = () => (
   <Row>
